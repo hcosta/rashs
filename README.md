@@ -26,7 +26,7 @@
 
 ## Vídeotutorial
 
-* [Ver en Youtube](proximamente)
+* [Ver en Youtube](http://youtu.be/3p3RcOsKRZw)
 
 ## Anexo
 
@@ -35,3 +35,4 @@
 * [Repo Restify](https://github.com/mcavage/node-restify)
 * [Repo Mongojs](https://github.com/mafintosh/mongojs)
 * [Extensión Postman Rest Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm)
+* [Códigos de estado HTTP](http://es.wikipedia.org/wiki/Anexo:C%C3%B3digos_de_estado_HTTP)
